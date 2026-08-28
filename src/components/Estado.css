@@ -1,0 +1,9 @@
+.cardEstado{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    border-radius: 5%;
+    background-color: rgb(119, 197, 211);
+    width: 50%;
+}
